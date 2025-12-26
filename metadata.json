@@ -1,0 +1,7 @@
+{
+  "name": "Management Voice Assistant",
+  "description": "Un assistant vocal intelligent expert sur les rôles du manager, basé sur le cours du Prof. Dr. Farid CHAOUKI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
